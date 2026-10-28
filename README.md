@@ -16,7 +16,7 @@ Stack: Python 3 standard library only. No external dependencies.
 ## Quick start
 
 ```bash
-cd ~/workspace/ambient-os/context-fabric
+cd Context-fabric   # repo root
 
 # Run the full test suite (10 tests)
 python3 -m unittest discover -s tests -v
