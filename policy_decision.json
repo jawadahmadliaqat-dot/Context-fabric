@@ -1,0 +1,18 @@
+{
+  "action": "ToggleLight",
+  "allowed_capabilities": [
+    "livingroom.lights.toggle"
+  ],
+  "ambient_state": "HOME",
+  "decision": "ALLOW",
+  "decision_id": "6dc5021d-9674-450c-a4e2-456c0994db8d",
+  "expires_at": "2026-10-28T17:43:29Z",
+  "issued_at": "2026-10-28T17:42:29Z",
+  "matched_permit_ids": [
+    "guest_livingroom_lights_permit"
+  ],
+  "resource": "LivingRoomLights",
+  "signature": "1b8eb9eec7c73bc20fc797faf93948509f920c94f2a38d575c45eebbcd0d09a4",
+  "ttl_seconds": 60,
+  "user_role": "GUEST"
+}
